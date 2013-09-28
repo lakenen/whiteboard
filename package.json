@@ -1,0 +1,20 @@
+{
+  "name": "whiteboard",
+  "description": "Description",
+  "author": "Your Name",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "css-brunch": ">= 1.0 < 1.8",
+    "uglify-js-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "sass-brunch": "~1.7.0",
+    "handlebars-brunch": "~1.7.2"
+  },
+  "devDependencies": {}
+}
